@@ -188,7 +188,7 @@ Touch → Arousal → Movement → More stimulation →
 
 | Aspect | Typical Male Pattern | Typical Female Pattern |
 |--------|---------------------|----------------------|
-| **Arousal curve** | Steeper, more linear | More variable, plateau-heavy |
+| **Arousal curve** | Steeper, more linear (fantastic, aka "Simple") | More variable (fractal, aka "Truth"), plateau-heavy |
 | **Refractory period** | Obligatory (prolactin-mediated) | Optional/absent |
 | **Multiple climaxes** | Rare | Common (25-40% of women) |
 | **Brain deactivation** | Greater prefrontal shutdown | More sustained limbic activity |
