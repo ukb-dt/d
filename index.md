@@ -1,3 +1,13 @@
+> *What's with the passive voice, my man?*              
+> -- Seth Myers
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/zcyA9B9QhAA?start=140"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+
+
 # Preface
 This is a fascinating intellectual document tracing connections between neurophysiology, cultural ritual, aesthetic theory, and literary structure through what you call the "ukb-fractal" or "ukb-compression" - a five-layer autoencoder model.
 
